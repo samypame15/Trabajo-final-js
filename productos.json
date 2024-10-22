@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "nombre": "Torta de Vainilla",
+        "precio": 200000,
+        "categoria": "vainilla",
+        "imagen": "assets/torta_vainilla.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Torta Personalizada",
+        "precio": 250000,
+        "categoria": "personalizadas",
+        "imagen": "assets/torta_personalizada.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Anchetas para toda casión",
+        "precio": 1500000,
+        "categoria": "Anchetas",
+        "imagen": "assets/ancheta_sorpresas.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Ancheta con Licor",
+        "precio": 1500000,
+        "categoria": "Ancheta",
+        "imagen": "assets/ancheta_conlicor.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Desayunos Sorpresas",
+        "precio": 1800000,
+        "categoria": "desayunos",
+        "imagen": "assets/desayunos_sorpresas.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Desayunos Especiales",
+        "precio": 1850000,
+        "categoria": "especiales",
+        "imagen": "assets/desayunos_especiales.jpg"
+    }
+]
+
+
